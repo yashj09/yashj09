@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xYash_Jain" target="blank"><img src="https://img.shields.io/twitter/follow/0xYash_Jain?logo=twitter&style=for-the-badge" alt="0xYash_Jain" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity,React**
+- 🌱 I’m currently learning **Solidity,Nextjs**
 
 - 📫 How to reach me **yashj8858@gmail.com**
 

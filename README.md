@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **yashj8858@gmail.com**
 
-You can view my resume [here](https://drive.google.com/file/d/1dzw9T_D5DcGqXfa13sD8lPlUNSy3PVr8/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

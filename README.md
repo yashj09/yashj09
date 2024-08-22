@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash jain</h1>
-<h3 align="center">As for myself, I am a highly motivated and dedicated individual with a passion for blockchain, and web3. With experience in web development and python development</h3>
+<h3 align="center">As for myself, I am a highly motivated and dedicated individual with a passion for blockchain, and web3. With experience in web development</h3>
 
 <p align="left"> <a href="https://twitter.com/0xYash_Jain" target="blank"><img src="https://img.shields.io/twitter/follow/0xYash_Jain?logo=twitter&style=for-the-badge" alt="0xYash_Jain" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity,Nextjs**
 
 - 📫 How to reach me **yashj8858@gmail.com**
+- [Resume](https://drive.google.com/file/d/14r3_3JMh64MgDdaysWfVnXI4Ilk4GN6m/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

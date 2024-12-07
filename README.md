@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Solidity,Nextjs**
 
 - 📫 How to reach me **yashj8858@gmail.com**
-- [Resume](https://drive.google.com/file/d/14r3_3JMh64MgDdaysWfVnXI4Ilk4GN6m/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

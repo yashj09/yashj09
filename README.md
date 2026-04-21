@@ -78,21 +78,6 @@ i don't do 9-5s well. i do early-stage startups, fast shipping, and hard problem
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/yashj09/yashj09/output/snake.svg" alt="Snake animation" />
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashj09/yashj09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashj09/yashj09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashj09/yashj09/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-###
-
 ## 🏆 highlights
  
 - **Polkadot Blockchain Academy — Bali cohort** · month-long protocol-level program, builders from 30+ countries

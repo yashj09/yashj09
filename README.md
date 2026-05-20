@@ -18,7 +18,7 @@
 
 <h1 align="center">hey, i'm yash 👋</h1>
 <h3 align="center">core contributor @Stratium · building DeFi infra on Hyperliquid</h3>
-<h5 align="center">i'm building protocol-level infrastructure across Hyperliquid, EigenLayer, ICP, Sui, and Polkadot. not a dApp guy. i care about what's underneath — staking mechanics, oracle security, cross-chain state, incentive design.
+<h5 align="center">i'm building protocol-level infrastructure across Hyperliquid, Ethereum, ICP, Sui, and Polkadot. not a dApp guy. i care about what's underneath — staking mechanics, oracle security, cross-chain state, incentive design.
 i don't do 9-5s well. i do early-stage startups, fast shipping, and hard problems. </h5>
 
 - 📫 How to reach me **yashj8858@gmail.com**
